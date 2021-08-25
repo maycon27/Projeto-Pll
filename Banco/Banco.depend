@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1529003597 source:f:\arquivos\nuvem\01 nuvem\graduação\ufs\ii semestri\sinf0064 -  programaÇÃo ii\disponibilizado (sigaa)\projetoprogii\projeto p2 a ii\banco\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	"funcoes.h"
+
+1529003734 f:\arquivos\nuvem\01 nuvem\graduação\ufs\ii semestri\sinf0064 -  programaÇÃo ii\disponibilizado (sigaa)\projetoprogii\projeto p2 a ii\banco\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<windows.h>
+	<conio2.h>
+	<locale.h>
+
+1363134210 f:\arquivos\nuvem\01 nuvem\graduação\ufs\ii semestri\sinf0064 -  programaÇÃo ii\disponibilizado (sigaa)\projetoprogii\projeto p2 a ii\banco\conio2.h
+	<conio.h>
+	<windows.h>
+
+1529005802 source:f:\arquivos\nuvem\01 nuvem\graduação\ufs\ii semestri\sinf0064 -  programaÇÃo ii\disponibilizado (sigaa)\projetoprogii\projeto p2 140618\banco\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	"funcoes.h"
+
+1529006268 f:\arquivos\nuvem\01 nuvem\graduação\ufs\ii semestri\sinf0064 -  programaÇÃo ii\disponibilizado (sigaa)\projetoprogii\projeto p2 140618\banco\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<windows.h>
+	<conio2.h>
+	<locale.h>
+
+1529083652 source:c:\users\rober\desktop\projeto p2 140618\banco\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	"funcoes.h"
+
+1529172866 c:\users\rober\desktop\projeto p2 140618\banco\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<windows.h>
+	<conio2.h>
+	<locale.h>
+
+1529083652 source:c:\users\rober\desktop\projeto p2 170618\banco\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	"funcoes.h"
+
+1529172866 c:\users\rober\desktop\projeto p2 170618\banco\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<windows.h>
+	<conio2.h>
+	<locale.h>
+
+1529346906 source:c:\projeto i - prog. ii\banco\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	"funcoes.h"
+
+1529346906 c:\projeto i - prog. ii\banco\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<windows.h>
+	<conio2.h>
+	<locale.h>
+
+1529339188 c:\projeto i - prog. ii\banco\tela.h
+	<stdio.h>
+	<conio2.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<windows.h>
+	<conio2.h>
+
+1529346906 source:c:\projeto i - prog. ii\projeto i - prog. ii\banco\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	"funcoes.h"
+
+1529541858 c:\projeto i - prog. ii\projeto i - prog. ii\banco\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<conio2.h>
+	<locale.h>
+
