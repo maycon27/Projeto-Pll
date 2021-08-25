@@ -9,6 +9,6 @@
  
 <img src="https://github.com/maycon27/Projeto-Pll/blob/main/Imagens/Adm.png">
  
-<H4> Já o cliente vai realizar todas as operações de saque, transferências e depósito<H4>
+<H4> Já o cliente vai realizar todas as operações de saque, transferências,depósito e empréstimos<H4>
  
  <img src="https://github.com/maycon27/Projeto-Pll/blob/main/Imagens/cliente.png">
